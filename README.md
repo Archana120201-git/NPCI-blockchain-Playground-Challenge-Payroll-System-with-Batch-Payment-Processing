@@ -1,4 +1,4 @@
-# Playground-Challenge : Payroll System with Batch Payment Processing
+# Playground Challenge : Payroll System with Batch Payment Processing
 
 ## Overview
 The Payroll smart contract is a Solidity-based implementation that enables efficient salary management for companies. It allows a company owner to add employees, fund the company balance, and automate salary payments. Designed with security and transparency in mind, it ensures only authorized actions are performed.
